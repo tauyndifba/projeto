@@ -1,6 +1,7 @@
 module com.tauynd {
     requires javafx.controls;
     requires javafx.fxml;
+    requires javafx.graphics;
 
     requires org.hibernate.orm.core;
     requires jakarta.persistence;
